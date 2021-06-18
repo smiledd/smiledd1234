@@ -1,0 +1,31 @@
+{
+  "name": "dorajs-shui-guo-shi-pin",
+  "displayName": "水果视频",
+  "version": "2.1.1",
+  "uuid": "63a5988d-015c-4577-a113-6d0d27a1ea4a",
+  "description": "原自视频合集，整合资源，持续更新…",
+  "icon": "/assets/icon.png",
+  "prefs": "assets/prefs.json",
+  "main": "main.js",
+  "license": "UNLICENSED",
+  "author": {
+    "name": "smiledd"
+  },
+  "engineStrick": true,
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "updates": "",
+  "contributes": {
+    "search": null
+  },
+  "homepage": "",
+  "engines": {
+    "dora": ">=1.9.0"
+  },
+  "keywords": [
+    "Dora.js"
+  ],
+  "dependencies": {}
+}
